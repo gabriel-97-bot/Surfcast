@@ -1,0 +1,5 @@
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; }
+::-webkit-scrollbar { height: 4px; }
+::-webkit-scrollbar-track { background: #0a1628; }
+::-webkit-scrollbar-thumb { background: #1e3a5f; border-radius: 2px; }
